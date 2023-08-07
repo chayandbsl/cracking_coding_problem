@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    int prices[] = {7,5,5,3,6,4};
+    int prices[] = {7,1,5,3,6,4};
     int n = std::size(prices);
     
     int minimumPrice = prices[0];
