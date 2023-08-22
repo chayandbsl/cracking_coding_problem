@@ -17,3 +17,7 @@ function sum(n1,n2) {
 
 const result = sum(3,3);
 console.log("Result: "+ result);
+
+
+// Time complexity: O(n);
+// Space complexity: O(1);
